@@ -1,28 +1,34 @@
 ---
-title: "Accounting"
+title: "Project Management"
 date: 2018-11-18T12:33:46+10:00
-weight: 2
+weight: 1
 ---
 
-Financial accounting (or financial accountancy) is the field of accounting concerned with the **summary, analysis and reporting** of financial transactions related to a business.
+Project management is the process of leading a team to achieve specific goals and objectives within a defined timeline, scope, and budget. Effective project management involves planning, organizing, and controlling resources to achieve successful project outcomes.
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
 # Objectives
 
-Financial accounting and financial reporting are often used as synonyms.
+The primary objective of project management is to deliver a project that meets or exceeds stakeholder expectations. The key objectives of project management include:
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
+1. Defining project scope, goals, and deliverables
+2. Developing project plans and schedules
+3. Estimating resource requirements and budgets
+4. Managing project risks and issues
+5. Monitoring project progress and performance
+6. Communicating with project stakeholders
+7. Ensuring project quality and standards are met
+8. Closing the project and conducting a project review
 
-## Relevance
+## Project Lifecycle
 
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance.
+A project typically goes through four phases: initiation, planning, execution, and closure. Each phase has specific deliverables and objectives that must be met to move to the next phase.
 
-> The ingredients of relevance are the predictive value and confirmatory value.
-
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
+1. Initiation: In this phase, the project is defined and a business case is developed to justify the investment of resources in the project. The project manager is appointed, and the project charter is created.
+2. Planning: In this phase, the project team develops a detailed project plan that outlines the scope, deliverables, timelines, resources, and budget for the project. The project plan also includes a risk management plan and a quality management plan.
+3. Execution: In this phase, the project team works on the tasks outlined in the project plan. The project manager is responsible for managing the team, monitoring progress, and resolving issues as they arise.
+4. Closure: In this phase, the project is completed, and the project team conducts a post-project review to evaluate project success and identify areas for improvement.
 
 ## Faithful Representation
 
