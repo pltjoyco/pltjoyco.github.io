@@ -4,81 +4,54 @@ date: 2018-12-28T15:14:39+10:00
 weight: 4
 ---
 
-Business advisory is the final tier of the accounting pyramid. Business advisory involves reporting on performance as well as advising on strategic plans, risk assessment, and succession plans.
+Design controls play a crucial role in ensuring the safety, effectiveness, and quality of medical devices and in-vitro diagnostic products. When preparing for regulatory submissions to governing bodies like the FDA or the EU CE IVDR, it is essential to have robust design controls in place. These controls help demonstrate compliance with regulatory requirements and facilitate a smooth and successful regulatory review process.
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
-# Objectives
+# Design Controls
 
-Financial accounting and financial reporting are often used as synonyms.
+Design controls are a set of procedures, practices, and documentation that guide the design and development of medical devices or in-vitro diagnostic products. They ensure that devices meet user needs, are safe and effective, and are manufactured consistently. Some key elements of design controls include:
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
+1. **Design and Development Planning**: This involves establishing a plan that outlines the design and development activities, resources, and timelines. It includes setting design inputs, output requirements, and verification and validation activities.
 
-## Relevance
+2. **Design Inputs and Requirements**: Clear and comprehensive design inputs are essential for developing a device that meets user needs. Design inputs include functional requirements, performance characteristics, and regulatory requirements.
 
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance.
+3. **Design Outputs**: Design outputs are the results of the design and development process and include specifications, drawings, manufacturing instructions, and labeling. These outputs should be clearly documented and traceable to the design inputs.
 
-> The ingredients of relevance are the predictive value and confirmatory value.
+4. **Design Verification and Validation**: Verification involves testing and evaluating the device to ensure it meets specified design requirements. Validation involves confirming that the device performs as intended in its intended use environment.
 
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
+5. **Design Reviews**: Design reviews are formal assessments conducted at various stages of the design process to evaluate progress, identify issues, and ensure compliance with design controls. These reviews involve cross-functional teams and documented outcomes.
 
-## Faithful Representation
+6. **Design Changes**: Any changes made to the design should be controlled and evaluated through a formal change management process. This ensures that the impact of the changes on safety, effectiveness, and regulatory compliance is assessed and documented.
 
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
+# Services to Improve Design Controls
 
-## Enhancing Qualitative Characteristics
+To enhance design controls and ensure readiness for regulatory submissions, organizations can leverage various services and practices. These services aim to strengthen the design and development processes, increase regulatory compliance, and improve overall product quality. Some key services include:
 
-### Verifiability
+1. **Design Control Assessment**: Conducting a comprehensive assessment of existing design controls to identify gaps, deficiencies, or areas for improvement. This assessment helps in understanding the current state of design controls and enables targeted enhancements.
 
-Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
+2. **Design Control Training**: Providing training programs to educate personnel involved in design and development activities about design control requirements, best practices, and regulatory expectations. Training enhances knowledge and awareness of design control principles.
 
-### Comparability
+3. **Risk Management and Hazard Analysis**: Implementing robust risk management practices, such as conducting risk assessments, hazard analysis, and risk mitigation strategies. This ensures that potential risks associated with the device are identified, evaluated, and addressed.
 
-Comparability is the uniform application of accounting methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
+4. **Quality System Integration**: Integrating design controls with the organization's quality management system (QMS) to ensure seamless coordination between design and post-market activities. This integration enhances traceability and promotes a holistic approach to quality.
 
-### Understandability
+5. **Document Management and Control**: Establishing efficient document management systems and processes to manage design control documentation, including design inputs, outputs, and change management records. This ensures version control, accessibility, and traceability of design documents.
 
-Understandability means that accounting reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
-Timeliness: Timeliness implies that financial information must be presented to the users before a decision is to be made.
+6. **Regulatory Strategy Development**: Engaging regulatory experts to develop a comprehensive regulatory strategy aligned with the specific requirements of governing bodies like the FDA or the EU CE IVDR. This includes understanding regulatory pathways, submission requirements, and timelines.
 
----
+# How PLTJoyCo Can Help
 
-## Statement of cash flows
+At PLTJoyCo, we understand the importance of robust design controls and the challenges companies face in preparing for regulatory submissions. We offer specialized services to help organizations enhance their design controls and navigate the regulatory landscape effectively. Our services include:
 
-The statement of cash flows considers the inputs and outputs in concrete cash within a stated period. The general template of a cash flow statement is as follows: Cash Inflow - Cash Outflow + Opening Balance = Closing Balance
+1. **Design Control Gap Analysis**: We conduct a thorough assessment of your existing design controls, identify gaps or areas for improvement, and provide actionable recommendations to strengthen your design control processes.
 
-| Cash Inflow | Outflow   | Opening Balance |
-| ----------- | --------- | --------------- |
-| _Monday_    | `Tuesday` | **Wednesday**   |
-| 1           | 2         | 3               |
+2. **Regulatory Compliance Training**: We offer training programs tailored to your organization's needs, focusing on design control requirements, regulatory expectations, and best practices. Our training equips your team with the knowledge and skills necessary for effective design control implementation.
 
-**Example 1:** in the beginning of September, Ellen started out with $5 in her bank account. During that same month, Ellen borrowed $20 from Tom. At the end of the month, Ellen bought a pair of shoes for $7. Ellen's cash flow statement for the month of September looks like this:
+3. **Risk Management Consulting**: Our experts guide you in implementing robust risk management practices, including hazard analysis, risk assessments, and risk mitigation strategies. We help you identify and mitigate potential risks associated with your medical devices or in-vitro diagnostic products.
 
-- Cash inflow: $20
-- Cash outflow:$7
-- Opening balance: $5
-- Closing balance: $20 – $7 + $5 = $18
+4. **Quality System Integration**: We assist in integrating design controls with your existing quality management system, ensuring a seamless flow of information and processes between design and post-market activities. This integration enhances traceability and compliance with regulatory requirements.
 
-**Example 2:** in the beginning of June, WikiTables, a company that buys and resells tables, sold 2 tables. They'd originally bought the tables for $25 each, and sold them at a price of $50 per table. The first table was paid out in cash however the second one was bought in credit terms. WikiTables' cash flow statement for the month of June looks like this:
+5. **Regulatory Strategy Development and Support**: Our regulatory experts work closely with you to develop a comprehensive regulatory strategy tailored to your specific product and target markets. We provide guidance on regulatory pathways, submission requirements, and timelines, helping you navigate the regulatory process effectively.
 
-> **Important:** the cash flow statement only considers the exchange of actual cash, and ignores what the person in question owes or is owed.
-
-## Statement of financial position (balance sheet)
-
-The balance sheet is the financial statement showing a firm's assets, liabilities and equity (capital) at a set point in time, usually the end of the fiscal year reported on the accompanying income statement.
-
-- **fixed assets**
-  - property
-  - building
-  - equipment (such as factory machinery)
-- **intangible assets**
-  - copyrights
-  - trademarks
-  - patents
-    - pending
-    - international
-- goodwill
-
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
+By partnering with PLTJoyCo, companies can strengthen their design controls, improve regulatory compliance, and increase the likelihood of successful regulatory submissions to governing bodies like the FDA or the EU CE IVDR. Our expertise and tailored services ensure that your products meet regulatory requirements and are ready for market launch.

@@ -4,84 +4,46 @@ date: 2019-06-18T12:33:46+10:00
 weight: 8
 ---
 
-Lorem markdownum **Achaica revolutaque amore**, penitus puppes nec furit,
-clipeus fatetur, mira inter accedere. Dedit dum raptoresque Oete dolorem
-Cretaeas enim [ipse pectora excusat](#in-poscat) candentibus fertur? Furtiva
-Orontes Erysicthona dona, est per Achille viridi draconis cultis mota milia.
+Automation plays a crucial role in streamlining and optimizing various aspects of project management and lab processes. By leveraging automation, organizations can increase efficiency, accuracy, and productivity while reducing human errors and manual workloads.
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
-# Objectives
+## Process Automation
 
-Financial accounting and financial reporting are often used as synonyms.
+Process automation in project management involves the use of software tools and technologies to automate repetitive tasks, streamline workflows, and improve collaboration. Some common examples of process automation in project management include:
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
+1. **Task and Time Management**: Automated tools can help in scheduling tasks, assigning resources, and tracking time spent on various activities. This enables better resource allocation, improved task prioritization, and efficient time management.
 
-## Relevance
+2. **Communication and Collaboration**: Automation can simplify communication by providing centralized platforms for team collaboration, document sharing, and real-time updates. Automated notifications and reminders can also keep team members informed about project updates and deadlines.
 
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance.
+3. **Reporting and Analytics**: Automation tools can generate automated reports and dashboards that provide real-time insights into project progress, resource utilization, and budget tracking. This allows project managers to make data-driven decisions and monitor project health effectively.
 
-> The ingredients of relevance are the predictive value and confirmatory value.
+## Software Automation
 
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
+Software automation refers to the use of specialized software solutions to automate specific project management tasks or processes. Some examples of software automation in project management include:
 
-## Faithful Representation
+1. **Project Planning and Scheduling**: Automated software tools can assist in creating project plans, defining milestones, and generating project schedules automatically based on predefined parameters. This saves time and ensures consistency in planning processes.
 
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
+2. **Risk and Issue Management**: Automation can help identify, assess, and mitigate project risks and issues by using predefined algorithms and rules. Automated risk management tools can provide early warnings, suggest mitigation strategies, and track risk resolution progress.
 
-## Enhancing Qualitative Characteristics
+3. **Budgeting and Financial Management**: Software automation can streamline budgeting processes, facilitate expense tracking, and generate automated financial reports. This improves financial visibility, enhances accuracy, and simplifies the overall budget management process.
 
-### Verifiability
+# Lab Automation
 
-Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
+## Workflow Automation
 
-### Comparability
+Process automation in lab environments involves the use of automated systems, instruments, and software to optimize and expedite laboratory workflows. It offers several benefits such as increased efficiency, data accuracy, and reproducibility. Some examples of lab process automation include:
 
-Comparability is the uniform application of accounting methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
+1. **Sample Handling and Tracking**: Automated systems can handle sample labeling, tracking, and storage, reducing the risk of human errors and ensuring proper sample management. This streamlines sample handling processes and enhances data integrity.
 
-### Understandability
+2. **Instrumentation and Analysis**: Lab automation can automate instrument operation, data acquisition, and analysis, reducing manual intervention and minimizing variability. This improves data quality, enhances throughput, and accelerates experimental workflows.
 
-Understandability means that accounting reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
-Timeliness: Timeliness implies that financial information must be presented to the users before a decision is to be made.
+3. **Inventory and Supply Chain Management**: Automation tools can manage lab inventory, track supplies, and automate procurement processes. This helps in optimizing stock levels, minimizing stockouts, and ensuring timely availability of required resources.
 
----
+## Lab Automation Software
 
-## Statement of cash flows
+Lab automation software provides a centralized platform for managing lab processes, data, and resources. It enables seamless integration of various lab instruments, data management systems, and analysis tools. Some key features of lab automation software include:
 
-The statement of cash flows considers the inputs and outputs in concrete cash within a stated period. The general template of a cash flow statement is as follows: Cash Inflow - Cash Outflow + Opening Balance = Closing Balance
+1. **Workflow Design and Execution**: Lab automation software allows users to design and execute complex experimental workflows by defining the sequence of steps, instrument parameters, and data handling rules. This ensures standardized and reproducible experiments.
 
-| Cash Inflow | Outflow   | Opening Balance |
-| ----------- | --------- | --------------- |
-| _Monday_    | `Tuesday` | **Wednesday**   |
-| 1           | 2         | 3               |
-
-**Example 1:** in the beginning of September, Ellen started out with $5 in her bank account. During that same month, Ellen borrowed $20 from Tom. At the end of the month, Ellen bought a pair of shoes for $7. Ellen's cash flow statement for the month of September looks like this:
-
-- Cash inflow: $20
-- Cash outflow:$7
-- Opening balance: $5
-- Closing balance: $20 – $7 + $5 = $18
-
-**Example 2:** in the beginning of June, WikiTables, a company that buys and resells tables, sold 2 tables. They'd originally bought the tables for $25 each, and sold them at a price of $50 per table. The first table was paid out in cash however the second one was bought in credit terms. WikiTables' cash flow statement for the month of June looks like this:
-
-> **Important:** the cash flow statement only considers the exchange of actual cash, and ignores what the person in question owes or is owed.
-
-## Statement of financial position (balance sheet)
-
-The balance sheet is the financial statement showing a firm's assets, liabilities and equity (capital) at a set point in time, usually the end of the fiscal year reported on the accompanying income statement.
-
-- **fixed assets**
-  - property
-  - building
-  - equipment (such as factory machinery)
-- **intangible assets**
-  - copyrights
-  - trademarks
-  - patents
-    - pending
-    - international
-- goodwill
-
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
+2. **Data Management and Analysis**: Automation software provides tools for efficient data capture, storage, and analysis. It enables easy retrieval of experimental data, facilitates data sharing and collaboration, and supports advanced analysis and visualization.

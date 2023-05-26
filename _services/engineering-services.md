@@ -4,81 +4,50 @@ date: 2018-11-18T12:33:46+10:00
 weight: 2
 ---
 
-Financial accounting (or financial accountancy) is the field of accounting concerned with the **summary, analysis and reporting** of financial transactions related to a business.
+At PLTJoyCo, we offer comprehensive engineering services to support the development and production of medical device products. Our range of services includes mechanical, electrical, and embedded system designs, covering the entire product lifecycle from early concept feasibility studies to prototyping and production-level design. We specialize in design transfer to high-volume production, ensuring a seamless transition from development to manufacturing.
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
-# Objectives
+# Mechanical Design Services
 
-Financial accounting and financial reporting are often used as synonyms.
+Our team of experienced mechanical engineers provides expertise in designing medical devices that meet the highest standards of quality, safety, and functionality. We offer the following mechanical design services:
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
+- **Concept Feasibility Studies**: We conduct thorough feasibility studies to evaluate the viability of design concepts, considering factors such as ergonomics, manufacturability, and regulatory requirements.
 
-## Relevance
+- **Prototyping**: We utilize advanced prototyping techniques to quickly iterate and refine designs, allowing for early-stage testing and validation of product functionality and user experience.
 
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance.
+- **Production-Level Design**: Our engineers develop detailed production-level designs that consider manufacturing processes, material selection, and regulatory compliance, ensuring a smooth transition to high-volume production.
 
-> The ingredients of relevance are the predictive value and confirmatory value.
+# Electrical and Embedded System Design Services
 
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
+Our electrical and embedded system design services enable the integration of cutting-edge technology into medical devices, enhancing their functionality and connectivity. Our expertise includes:
 
-## Faithful Representation
+- **Electronic Circuit Design**: We design custom electronic circuits tailored to the specific requirements of medical device products, considering factors such as power management, signal integrity, and electromagnetic compatibility.
 
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
+- **Firmware Development**: Our embedded systems engineers develop firmware that enables seamless interaction between hardware components, ensuring optimal performance and reliability.
 
-## Enhancing Qualitative Characteristics
+- **Connectivity and IoT Integration**: We specialize in integrating medical devices with IoT platforms, enabling remote monitoring, data analysis, and connectivity with other healthcare systems.
 
-### Verifiability
+# Design for Medical Device Products
 
-Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
+We have extensive experience in designing medical device products, adhering to regulatory guidelines and standards. Our expertise includes:
 
-### Comparability
+- **Design for Regulatory Compliance**: Our engineers have in-depth knowledge of regulatory requirements for medical devices, including FDA guidelines and international standards. We ensure that designs are compliant, facilitating a smoother regulatory approval process.
 
-Comparability is the uniform application of accounting methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
+- **Industrial Design and Human Factors**: Our industrial designers and human factors engineers collaborate to create aesthetically pleasing and user-friendly medical devices, considering factors such as ergonomics, user interface, and patient safety.
 
-### Understandability
+# Special Tooling and Automation
 
-Understandability means that accounting reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
-Timeliness: Timeliness implies that financial information must be presented to the users before a decision is to be made.
+We understand the importance of efficient and automated processes in medical device development and production. Our services include:
 
----
+- **Special Tooling Design**: We design specialized tools and equipment to streamline and optimize the manufacturing process of medical devices, ensuring high precision and efficiency.
 
-## Statement of cash flows
+- **Automation Solutions**: Our engineers develop automation solutions that enhance productivity, quality, and scalability in the production of medical devices, reducing costs and minimizing errors.
 
-The statement of cash flows considers the inputs and outputs in concrete cash within a stated period. The general template of a cash flow statement is as follows: Cash Inflow - Cash Outflow + Opening Balance = Closing Balance
+# Expert Engineers and Collaborative Approach
 
-| Cash Inflow | Outflow   | Opening Balance |
-| ----------- | --------- | --------------- |
-| _Monday_    | `Tuesday` | **Wednesday**   |
-| 1           | 2         | 3               |
+At PLTJoyCo, we take pride in our team of expert engineers with diverse backgrounds in industrial design, human factors, and embedded systems/IoT. Our collaborative approach ensures seamless integration of design disciplines and effective communication throughout the product development process.
 
-**Example 1:** in the beginning of September, Ellen started out with $5 in her bank account. During that same month, Ellen borrowed $20 from Tom. At the end of the month, Ellen bought a pair of shoes for $7. Ellen's cash flow statement for the month of September looks like this:
+Whether you require assistance with mechanical design, electrical and embedded system design, design for medical device products, or special tooling and automation, our engineering services are tailored to meet your specific needs. We are committed to delivering high-quality, innovative, and regulatory-compliant solutions for the medical device industry.
 
-- Cash inflow: $20
-- Cash outflow:$7
-- Opening balance: $5
-- Closing balance: $20 – $7 + $5 = $18
-
-**Example 2:** in the beginning of June, WikiTables, a company that buys and resells tables, sold 2 tables. They'd originally bought the tables for $25 each, and sold them at a price of $50 per table. The first table was paid out in cash however the second one was bought in credit terms. WikiTables' cash flow statement for the month of June looks like this:
-
-> **Important:** the cash flow statement only considers the exchange of actual cash, and ignores what the person in question owes or is owed.
-
-## Statement of financial position (balance sheet)
-
-The balance sheet is the financial statement showing a firm's assets, liabilities and equity (capital) at a set point in time, usually the end of the fiscal year reported on the accompanying income statement.
-
-- **fixed assets**
-  - property
-  - building
-  - equipment (such as factory machinery)
-- **intangible assets**
-  - copyrights
-  - trademarks
-  - patents
-    - pending
-    - international
-- goodwill
-
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
+Contact us today to discuss your engineering requirements and see how PLTJoyCo can contribute to the success of your medical device projects.

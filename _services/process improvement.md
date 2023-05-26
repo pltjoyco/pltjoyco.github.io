@@ -4,83 +4,54 @@ date: 2019-03-28T15:14:54+10:00
 weight: 5
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+At PLTJoyCo, we specialize in process improvement and agile quality management to help organizations optimize work processes, enhance operational efficiency, and deliver products and services with agility. Our services focus on techniques such as value stream mapping, lean principles, and quality management system optimization for fast flow and agile delivery.
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
-# Objectives
+At PLTJoyCo, we specialize in process improvement and agile quality management to help organizations optimize work processes, enhance operational efficiency, and deliver products and services with agility. Our services focus on techniques such as value stream mapping, lean principles, and quality management system optimization for fast flow and agile delivery.
 
-Financial accounting and financial reporting are often used as synonyms.
+# Value Stream Mapping
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
+Value stream mapping is a powerful technique for visualizing and analyzing the flow of materials, information, and activities within a process. We offer expertise in value stream mapping to identify and eliminate waste, reduce lead times, and improve overall process efficiency. Our services include:
 
-## Relevance
+- **Current State Mapping**: We work closely with your team to map the existing process, identify bottlenecks, and areas of waste or inefficiency.
 
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance.
+- **Future State Design**: Based on the current state map, we collaborate to design an optimized future state that eliminates waste, reduces cycle times, and improves the overall flow of the process.
 
-> The ingredients of relevance are the predictive value and confirmatory value.
+- **Implementation Support**: Our experts provide guidance and support in implementing the future state, ensuring successful process improvements and sustainable results.
 
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
+# Lean Principles and Techniques
 
-## Faithful Representation
+We apply lean principles and techniques to streamline processes, eliminate waste, and improve productivity. Our process improvement services encompass:
 
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
+- **Waste Identification and Elimination**: We assist in identifying and eliminating various types of waste, including overproduction, excess inventory, defects, waiting time, and unnecessary motion.
 
-## Enhancing Qualitative Characteristics
+- **Standard Work Development**: We work with your team to establish standard work procedures, ensuring consistent and efficient execution of tasks.
 
-### Verifiability
+- **Continuous Improvement Culture**: We promote a culture of continuous improvement, empowering employees to contribute ideas, identify improvement opportunities, and implement changes to drive ongoing enhancements.
 
-Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
+# Agile Quality Management Systems
 
-### Comparability
+Quality management systems (QMS) play a crucial role in ensuring product quality, regulatory compliance, and customer satisfaction. We optimize QMS for fast flow and agile delivery through:
 
-Comparability is the uniform application of accounting methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
+- **Lean QMS Design**: We help design lean QMS processes that minimize bureaucracy, reduce complexity, and enable faster decision-making and responsiveness.
 
-### Understandability
+- **Risk-Based Approach**: Our experts assist in implementing a risk-based approach to quality management, focusing resources on critical areas while ensuring regulatory compliance.
 
-Understandability means that accounting reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
-Timeliness: Timeliness implies that financial information must be presented to the users before a decision is to be made.
+- **Agile Documentation**: We streamline documentation processes, emphasizing the use of agile documentation methods such as user stories, visual management, and electronic systems to improve information flow and accessibility.
 
----
+- **Data-Driven Quality Metrics**: We facilitate the establishment of meaningful quality metrics, leveraging data and analytics to drive actionable insights and continuous improvement.
 
-## Statement of cash flows
+# Continuous Improvement and Agile Delivery
 
-The statement of cash flows considers the inputs and outputs in concrete cash within a stated period. The general template of a cash flow statement is as follows: Cash Inflow - Cash Outflow + Opening Balance = Closing Balance
+Continuous improvement is at the core of our process improvement approach. We facilitate agile delivery through:
 
-| Cash Inflow | Outflow   | Opening Balance |
-| ----------- | --------- | --------------- |
-| _Monday_    | `Tuesday` | **Wednesday**   |
-| 1           | 2         | 3               |
+- **Kaizen Events**: We conduct focused Kaizen events to drive rapid improvement in specific areas, fostering collaboration and problem-solving among cross-functional teams.
 
-**Example 1:** in the beginning of September, Ellen started out with $5 in her bank account. During that same month, Ellen borrowed $20 from Tom. At the end of the month, Ellen bought a pair of shoes for $7. Ellen's cash flow statement for the month of September looks like this:
+- **Agile Project Management**: We promote agile project management practices, enabling iterative development, frequent feedback, and adaptive planning.
 
-- Cash inflow: $20
-- Cash outflow:$7
-- Opening balance: $5
-- Closing balance: $20 – $7 + $5 = $18
+- **Agile Tools and Techniques**: We introduce agile tools and techniques, such as Kanban boards, daily stand-ups, and sprint planning, to improve transparency, collaboration, and productivity.
 
-**Example 2:** in the beginning of June, WikiTables, a company that buys and resells tables, sold 2 tables. They'd originally bought the tables for $25 each, and sold them at a price of $50 per table. The first table was paid out in cash however the second one was bought in credit terms. WikiTables' cash flow statement for the month of June looks like this:
+By partnering with PLTJoyCo for process improvement and agile quality management, organizations can optimize their work processes, enhance operational efficiency, and deliver products and services with agility. Our expertise in value stream mapping, lean principles, and agile methodologies ensures sustainable process improvements and increased customer satisfaction.
 
-> **Important:** the cash flow statement only considers the exchange of actual cash, and ignores what the person in question owes or is owed.
-
-## Statement of financial position (balance sheet)
-
-The balance sheet is the financial statement showing a firm's assets, liabilities and equity (capital) at a set point in time, usually the end of the fiscal year reported on the accompanying income statement.
-
-- **fixed assets**
-  - property
-  - building
-  - equipment (such as factory machinery)
-- **intangible assets**
-  - copyrights
-  - trademarks
-  - patents
-    - pending
-    - international
-- goodwill
-
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
+Contact us today to discuss your process improvement needs and learn how PLTJoyCo can drive efficiency and agility in your organization.

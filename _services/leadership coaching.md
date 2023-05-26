@@ -1,87 +1,49 @@
 ---
-title: "Leadership Coaching"
+title: "Leadership Coaching and Staff Training"
 date: 2019-04-18T12:33:46+10:00
 weight: 6
 ---
 
-Lorem markdownum **Achaica revolutaque amore**, penitus puppes nec furit,
-clipeus fatetur, mira inter accedere. Dedit dum raptoresque Oete dolorem
-Cretaeas enim [ipse pectora excusat](#in-poscat) candentibus fertur? Furtiva
-Orontes Erysicthona dona, est per Achille viridi draconis cultis mota milia.
+At PLTJoyCo, we provide comprehensive leadership coaching and staff training services to empower organizations in the medical device development industry. We understand the importance of continuous improvement, regulatory compliance, and effective team collaboration in achieving successful outcomes. Our services focus on key areas such as lean product development and manufacturing, agile product development and project management, regulatory compliance, change management, and elevating team performance.
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
-# Objectives
+At PLTJoyCo, we provide comprehensive leadership coaching and staff training services to empower organizations in the medical device development industry. We understand the importance of continuous improvement, regulatory compliance, and effective team collaboration in achieving successful outcomes. Our services focus on key areas such as lean product development and manufacturing, agile product development and project management, regulatory compliance, change management, and elevating team performance.
 
-Financial accounting and financial reporting are often used as synonyms.
+# Lean Product Development and Manufacturing
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
+Lean principles aim to eliminate waste and optimize processes to enhance efficiency and product quality. We offer coaching and training in lean product development and manufacturing, including:
 
-## Relevance
+- **Value Stream Mapping**: We help identify and eliminate non-value-added activities in the product development and manufacturing process, streamlining workflows and reducing waste.
 
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance.
+- **Continuous Improvement Practices**: We guide teams in implementing practices such as Kaizen, 5S, and visual management to foster a culture of continuous improvement and efficiency.
 
-> The ingredients of relevance are the predictive value and confirmatory value.
+- **Lean Manufacturing Techniques**: Our experts provide training on lean manufacturing techniques such as Kanban, Just-in-Time (JIT) inventory management, and cellular manufacturing, enabling organizations to achieve streamlined production processes.
 
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
+# Agile Product Development and Project Management
 
-## Faithful Representation
+Agile methodologies are highly effective in managing complex and rapidly changing projects. We offer coaching and training in agile product development and project management, including:
 
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
+- **Agile Frameworks**: We guide teams in implementing agile frameworks such as Scrum or Kanban, enabling iterative development, frequent feedback, and adaptive planning.
 
-## Enhancing Qualitative Characteristics
+- **Cross-functional Collaboration**: We emphasize the importance of cross-functional collaboration, enabling teams to work together efficiently, share knowledge, and deliver high-quality products within shorter timeframes.
 
-### Verifiability
+- **Iterative and Incremental Development**: Our training focuses on breaking down projects into smaller, manageable increments, allowing for faster feedback cycles, continuous learning, and flexibility in adapting to changing requirements.
 
-Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
+# Regulatory Compliance for Medical Device Development
 
-### Comparability
+Navigating the complex landscape of regulatory requirements is crucial for successful medical device development. Our coaching and training services in regulatory compliance cover:
 
-Comparability is the uniform application of accounting methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
+- **FDA and International Regulations**: We provide guidance on FDA regulations, international standards such as ISO 13485, and other relevant regulations to ensure compliance throughout the development lifecycle.
 
-### Understandability
+- **Quality Management Systems**: We assist in implementing effective quality management systems (QMS) that meet regulatory requirements, including document control, risk management, and post-market surveillance.
 
-Understandability means that accounting reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
-Timeliness: Timeliness implies that financial information must be presented to the users before a decision is to be made.
+- **Design Control Implementation**: Our experts offer coaching on implementing robust design controls, including design verification and validation, risk management, and traceability.
 
----
+# Change Management
 
-## Statement of cash flows
+Managing change is essential for organizations to adapt to evolving market needs and regulatory requirements. We offer coaching and training in change management, including:
 
-The statement of cash flows considers the inputs and outputs in concrete cash within a stated period. The general template of a cash flow statement is as follows: Cash Inflow - Cash Outflow + Opening Balance = Closing Balance
+- **Change Readiness Assessment**: We assess an organization's readiness for change, identify potential challenges, and develop strategies to minimize resistance and maximize acceptance.
 
-| Cash Inflow | Outflow   | Opening Balance |
-| ----------- | --------- | --------------- |
-| _Monday_    | `Tuesday` | **Wednesday**   |
-| 1           | 2         | 3               |
-
-**Example 1:** in the beginning of September, Ellen started out with $5 in her bank account. During that same month, Ellen borrowed $20 from Tom. At the end of the month, Ellen bought a pair of shoes for $7. Ellen's cash flow statement for the month of September looks like this:
-
-- Cash inflow: $20
-- Cash outflow:$7
-- Opening balance: $5
-- Closing balance: $20 – $7 + $5 = $18
-
-**Example 2:** in the beginning of June, WikiTables, a company that buys and resells tables, sold 2 tables. They'd originally bought the tables for $25 each, and sold them at a price of $50 per table. The first table was paid out in cash however the second one was bought in credit terms. WikiTables' cash flow statement for the month of June looks like this:
-
-> **Important:** the cash flow statement only considers the exchange of actual cash, and ignores what the person in question owes or is owed.
-
-## Statement of financial position (balance sheet)
-
-The balance sheet is the financial statement showing a firm's assets, liabilities and equity (capital) at a set point in time, usually the end of the fiscal year reported on the accompanying income statement.
-
-- **fixed assets**
-  - property
-  - building
-  - equipment (such as factory machinery)
-- **intangible assets**
-  - copyrights
-  - trademarks
-  - patents
-    - pending
-    - international
-- goodwill
-
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
+- **Communication and Stakeholder Engagement**: We provide techniques for effective communication, stakeholder engagement, and creating a shared vision to facilitate smooth transitions during change initiatives.

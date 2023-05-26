@@ -4,84 +4,62 @@ date: 2019-05-18T12:33:46+10:00
 weight: 7
 ---
 
-Lorem markdownum **Achaica revolutaque amore**, penitus puppes nec furit,
-clipeus fatetur, mira inter accedere. Dedit dum raptoresque Oete dolorem
-Cretaeas enim [ipse pectora excusat](#in-poscat) candentibus fertur? Furtiva
-Orontes Erysicthona dona, est per Achille viridi draconis cultis mota milia.
+At PLTJoyCo, we specialize in developing and updating quality management systems (QMS) for the medical device industry. We understand the importance of maintaining compliance with evolving regulations while ensuring efficiency and agility. Our services focus on creating new QMS or updating existing ones to be fully compliant with the most stringent regulatory requirements, such as ISO 13485, IEC 62304, and several other relevant standards. We emphasize lightweight QMS solutions that prioritize cyber security, safety, and risk management.
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
-# Objectives
+# Developing New QMS or Updating Existing Systems
 
-Financial accounting and financial reporting are often used as synonyms.
+We assist organizations in developing new QMS or updating existing systems to meet the dynamic regulatory landscape. Our services include:
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
+- **Gap Analysis**: We conduct a comprehensive assessment of your current QMS to identify gaps and areas that need improvement to align with the latest regulatory requirements.
 
-## Relevance
+- **QMS Design and Implementation**: We work closely with your team to design and implement a QMS that is tailored to your organization's specific needs, considering factors such as size, complexity, and regulatory environment.
 
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance.
+- **Process Standardization**: We help standardize processes and procedures across your organization to ensure consistency and efficiency in quality management practices.
 
-> The ingredients of relevance are the predictive value and confirmatory value.
+# Compliance with Regulatory Standards
 
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
+Staying compliant with regulatory standards is crucial for medical device manufacturers. Our QMS solutions are designed to meet the requirements of key standards, including:
 
-## Faithful Representation
+- **ISO 13485**: We ensure that your QMS aligns with ISO 13485, the international standard for medical device quality management systems. This standard emphasizes risk management, regulatory compliance, and the ability to demonstrate the effectiveness of the QMS.
 
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
+- **IEC 62304**: For software-intensive medical devices, we incorporate the requirements of IEC 62304, which focuses on the software development life cycle and software risk management.
 
-## Enhancing Qualitative Characteristics
+- **ISO 14971**: We address the requirements of ISO 14971, the standard for medical device risk management, to help organizations identify, assess, and mitigate risks throughout the product lifecycle.
 
-### Verifiability
+- **FDA 21 CFR Part 820**: We ensure compliance with FDA regulations, specifically 21 CFR Part 820, which outlines the quality system requirements for medical device manufacturers in the United States.
 
-Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
+- **EU Medical Device Regulation (MDR)**: We assist organizations in aligning their QMS with the EU MDR, ensuring compliance with the updated regulations for medical devices marketed within the European Union.
 
-### Comparability
+- **IEC 60601**: For medical electrical equipment, we incorporate the requirements of IEC 60601, which focuses on the safety and essential performance of medical electrical equipment.
 
-Comparability is the uniform application of accounting methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
+# Lightweight and Agile QMS Solutions
 
-### Understandability
+We understand the importance of agility and efficiency in QMS. Our approach emphasizes lightweight solutions while ensuring full compliance with regulatory requirements. We focus on:
 
-Understandability means that accounting reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
-Timeliness: Timeliness implies that financial information must be presented to the users before a decision is to be made.
+- **Risk-Based Approach**: We help organizations implement a risk-based approach to quality management, ensuring that resources are allocated based on the level of risk associated with different processes and activities.
 
----
+- **Streamlined Documentation**: We optimize documentation processes to minimize bureaucracy and reduce the burden of paperwork, while still meeting the necessary documentation requirements.
 
-## Statement of cash flows
+- **Agile QMS Implementation**: We introduce agile methodologies and tools to enable faster decision-making, responsiveness to changes, and continuous improvement within the QMS.
 
-The statement of cash flows considers the inputs and outputs in concrete cash within a stated period. The general template of a cash flow statement is as follows: Cash Inflow - Cash Outflow + Opening Balance = Closing Balance
+# Cyber Security, Safety, and Risk Management
 
-| Cash Inflow | Outflow   | Opening Balance |
-| ----------- | --------- | --------------- |
-| _Monday_    | `Tuesday` | **Wednesday**   |
-| 1           | 2         | 3               |
+In today's interconnected world, cyber security is a critical aspect of medical device quality management. We offer expertise in:
 
-**Example 1:** in the beginning of September, Ellen started out with $5 in her bank account. During that same month, Ellen borrowed $20 from Tom. At the end of the month, Ellen bought a pair of shoes for $7. Ellen's cash flow statement for the month of September looks like this:
+- **Cyber Security Risk Assessment**: We assess the cyber security risks associated with your medical device systems and provide recommendations for effective risk management strategies.
 
-- Cash inflow: $20
-- Cash outflow:$7
-- Opening balance: $5
-- Closing balance: $20 – $7 + $5 = $18
+- **Safety and Risk Management**: Our experts assist in integrating safety and risk management practices into your QMS, ensuring that potential risks are identified, assessed, and mitigated throughout the product lifecycle.
 
-**Example 2:** in the beginning of June, WikiTables, a company that buys and resells tables, sold 2 tables. They'd originally bought the tables for $25 each, and sold them at a price of $50 per table. The first table was paid out in cash however the second one was bought in credit terms. WikiTables' cash flow statement for the month of June looks like this:
+# Continuous Improvement and Training
 
-> **Important:** the cash flow statement only considers the exchange of actual cash, and ignores what the person in question owes or is owed.
+Continuous improvement is key to maintaining an effective QMS. We offer:
 
-## Statement of financial position (balance sheet)
+- **QMS Audits and Assessments**: We conduct regular audits and assessments to evaluate the performance and effectiveness of your QMS, identifying areas for improvement and ensuring ongoing compliance.
 
-The balance sheet is the financial statement showing a firm's assets, liabilities and equity (capital) at a set point in time, usually the end of the fiscal year reported on the accompanying income statement.
+- **Training and Education**: We provide comprehensive training programs to empower your staff with the knowledge and skills necessary to implement and maintain the QMS effectively.
 
-- **fixed assets**
-  - property
-  - building
-  - equipment (such as factory machinery)
-- **intangible assets**
-  - copyrights
-  - trademarks
-  - patents
-    - pending
-    - international
-- goodwill
+By partnering with PLTJoyCo, organizations can develop or update their QMS to be fully compliant with evolving regulations while maintaining agility and efficiency. Our focus on lightweight solutions, compliance with industry standards, and expertise in cyber security, safety, and risk management ensures a robust and effective QMS.
 
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
+Contact us today to discuss your QMS needs and learn how PLTJoyCo can help you achieve regulatory compliance and operational excellence.
